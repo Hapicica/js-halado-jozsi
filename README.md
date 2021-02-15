@@ -1,2 +1,2 @@
 # js-halado-jozsi
-Haladó Javascript konzultációk anyagai
+Haladó Javascript konzultációk anyagaii
